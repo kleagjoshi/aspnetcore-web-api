@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\my-books\MyBooks.API\obj\Debug\net6.0\MyBooks.API.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\my-books\MyBooks.API\obj\Debug\net6.0\MyBooks.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\my-books\MyBooks.API\obj\Debug\net6.0\MyBooks.API.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\my-books\MyBooks.API\obj\Debug\net6.0\MyBooks.API.AssemblyInfo.cs
+C:\Users\User\source\repos\my-books\MyBooks.API\obj\Debug\net6.0\MyBooks.API.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\my-books\MyBooks.API\obj\Debug\net6.0\MyBooks.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\my-books\MyBooks.API\obj\Debug\net6.0\MyBooks.API.MvcApplicationPartsAssemblyInfo.cache
